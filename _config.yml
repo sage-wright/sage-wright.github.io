@@ -48,7 +48,7 @@ plugins:
 
 webrick:
   headers:
-     add_header Content-Security-Policy "frame-src 'self' https://salesforce.com;"
+     add_header Content-Security-Policy "frame-src 'self' https://github.com;"
 
 
 # Exclude from processing.
