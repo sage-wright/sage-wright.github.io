@@ -46,6 +46,11 @@ version: 0.0.1
 plugins:
   - jekyll-feed
 
+webrick:
+  headers:
+     add_header Content-Security-Policy "frame-src 'self' https://salesforce.com;"
+
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
