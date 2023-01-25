@@ -28,7 +28,7 @@ title: "Sage Wright"
 tagline: "Bioinformatics Scientist"
 email: sage.wright@theiagen.com
 description: "Bioinformatics Scientist"
-baseurl: ""
+baseurl: /
 url: "https://sage-wright.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: bioinfo_sage
 github_username:  sage-wright
