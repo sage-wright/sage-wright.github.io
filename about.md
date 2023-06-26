@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Hi, I'm Sage
+title: About
 ---
+
+## Hi, I'm Sage
 
 I am passionate about public health, bioinformatics, cats, and gnarly one-liners. With a BS in Bioinformatics, and a MSc in Bioinformatics and Genomics, I live in Rhode Island with my partner, son, and fuzzy cat. 
 
