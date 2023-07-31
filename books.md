@@ -32,7 +32,7 @@ I read a lot. Here's some of my recent favorites (links are to [Bookshop.org](ht
 
 - [**The Savage Detectives**](https://bookshop.org/p/books/the-savage-detectives-roberto-bolano/10145596), by Roberto Bola&ntilde;o
 
-  This book is wild and is definitely not for everyone. I wasn't expecting to like this book as much as I did, since the first 140 pages are _bizarre_ and frankly off-putting. I was seriously questioning the cashier who recommended it to me as "the best book he's read in 50 years" and highly considered not finishing. I'm so glad I stuck with it, because once you get to the inteview sections, the book gets a lot better. And then when you get to those last 150 or so pages? This book goes from good to fantastic.
+  This book is wild and is definitely not for everyone. I wasn't expecting to like this book as much as I did, since the first 140 pages are _bizarre_ and frankly off-putting. I was seriously questioning the cashier who recommended it to me as "the best book he's read in 50 years" and highly considered not finishing. I'm so glad I stuck with it, because once you get to the interview sections, the book gets a lot better. And then when you get to those last 150 or so pages? This book goes from good to fantastic.
 
 ---
 
