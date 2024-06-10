@@ -20,12 +20,8 @@ I read a lot. Here's some of my recent favorites (links are to [Bookshop.org](ht
 
 - [**4 3 2 1**](https://bookshop.org/p/books/4-3-2-1-paul-auster/230372?ean=9781250618801), by Paul Auster
   
-  Phenomenal. I can't really describe how encompassing and beautiful the narrative Auster has written without giving too much of the plot away, but I can say that I've rarely read something as thought-provoking, wondrously tragic, and agonizingly joyful as this novel. This book describes four versions of a single life, emphasizing how small choices we make can end up affecting us far down the road. This is a book to savor. I wish there were more books that left the same impact this one does.
-
-- [**Here I Am**](https://bookshop.org/p/books/here-i-am-jonathan-safran-foer/8526873?ean=9781250135759), by Jonathan Safran Foer
+  Phenomenal. I can't really describe how encompassing and beautiful the narrative Auster has written without giving too much of the plot away, but I can say that I've rarely read something as thought-provoking, wondrously tragic, and agonizingly joyful as this novel. This book describes four versions of a single life, emphasizing how small choices we make can end up affecting us far down the road. This is a book to savor.
   
-  This book is a top contender for my favorite book of all time. It's about a family falling apart and falling together. My favorite parts are the multiple different iterations of Sam's bar mitzvah speech, but there are so many beautiful passages that reading this book was a lovely experience.
-
 - [**The Three Body Problem**](https://bookshop.org/p/books/the-three-body-problem-cixin-liu/265918?ean=9780765382030) and sequels, by Cixin Liu
   
   This is an absolutely _incredible_ sci-fi series that spans centuries. The premise: aliens are coming to earth--but in 450 years. What happens through the next three books is a race to somehow prevent the incoming invasion. A rich, dense series with fantastic characters and deep philosophical questions all with a terrifying backdrop that humanity's time on earth is limited.
@@ -40,4 +36,4 @@ I read a lot. Here's some of my recent favorites (links are to [Bookshop.org](ht
 
 - [**How to Hide an Empire: A History of the Greater United States**](https://bookshop.org/p/books/how-to-hide-an-empire-a-history-of-the-greater-united-states-daniel-immerwahr/6985644?ean=9781250251091), by Daniel Immerwahr
 
-  This book is about the United States' colonial aspirations that the country tries to forget and neglects to teach its citizens. A super fascinating look at the influence of the United States as an empire throughout its history. It was definitely eye-opening and a great reminder to (unfortunately) not believe everything you are taught in school, especially in areas where "negative" history is surpressed or revised in obsequence to the increasing rise of nationalism.
+  This book is about the United States' colonial aspirations that the country tries to forget and neglects to teach its citizens. A super fascinating look at the influence of the United States as an empire throughout its history. It was definitely eye-opening and a great reminder to (unfortunately) not believe everything you are taught in school, especially in areas where "negative" history is suppressed or revised in obsequence to the increasing rise of nationalism.
