@@ -1,0 +1,89 @@
+site_name: Sage Wright
+
+theme: 
+  name: landing
+  favicon: assets/favicon-16x16.png
+  avatar: assets/android-chrome-512x512.png # temporary -- replace with photo or something
+  tagline: |
+    she/her
+
+  socials:
+    - label: Email
+      link: mailto:sagemwright@gmail.com
+      icon: at
+    - label: GitHub
+      link: https://github.com/sage-wright
+      icon: [brands, github]
+    - label: ORCiD
+      link: https://orcid.org/0000-0002-0735-5504
+      icon: [brands, orcid]
+    - label: Google Scholar
+      link: https://scholar.google.com/citations?user=b_oeT_MAAAAJ&hl=en
+      icon: [brands, google-scholar]
+    - label: LinkedIn
+      link: https://www.linkedin.com/in/sagewright/
+      icon: [brands, linkedin]
+
+  header_layout: 
+    - tagline
+    - title
+    - avatar
+    - socials
+  border_left: 2px solid var(--primary)
+  avatar_size: 12rem
+  round_avatar: True
+  toc_level: 2
+  
+  # colors
+  primary_color: "#dc8a78" # tagline, line on side
+  secondary_color: "#209fb5" # headers
+  tertiary_color: "#40a02b" # hover
+  # shades
+  base_color: "#eff1f5"
+  mantle_color: "#e6e9ef"
+  crust_color: "#dce0e8"
+  overlay_color: "#9ca0b0"
+  # text
+  text_color: "#4c4f69"
+  hltext_color: var(--base)
+  # background-specific text
+  primary_text_color: var(--hltext)
+  secondary_text_color: var(--hltext)
+  tertiary_text_color: var(--hltext)
+  base_text_color: var(--text)
+  mantle_text_color: var(--text)
+  crust_text_color: var(--text)
+  overlay_text_color: var(--hltext)
+
+  # colours (dark)
+  primary_color_dark: "#b4befe"
+  secondary_color_dark: "#f5e0dc"
+  tertiary_color_dark: "#94e2d5"
+  # shades (dark)
+  base_color_dark: "#1e1e2e"
+  mantle_color_dark: "#181825"
+  crust_color_dark: "#11111b"
+  overlay_color_dark: "#6c7086"
+  # text (dark)
+  text_color_dark: "#cdd6f4"
+  hltext_color_dark: var(--base)
+  # background-specific text (dark)
+  primary_text_color_dark: var(--text)
+  secondary_text_color_dark: var(--text)
+  tertiary_text_color_dark: var(--text)
+  base_text_color_dark: var(--text)
+  mantle_text_color_dark: var(--text)
+  crust_text_color_dark: var(--text)
+  overlay_text_color_dark: var(--hltext)
+
+  # fonts
+  body_font: Hind
+  heading_font: Josefin Sans
+  mono_font: JetBrains Monox
+
+markdown_extensions:
+  - toc
+  - attr_list
+  - def_list
+  - md_in_html
+  - nl2br
